@@ -10,3 +10,4 @@ creating a new branch is quick and simple
 >>>>>>> feature
 on dev branch
 creat bug fixing issue-101
+create bug fixing issue-102

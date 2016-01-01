@@ -11,3 +11,4 @@ creating a new branch is quick and simple
 on dev branch
 creat bug fixing issue-101
 create bug fixing issue-102
+local and remote branch

@@ -14,4 +14,4 @@ create bug fixing issue-102
 local and remote branch
 local branch edit
 
-mybranch edit
+mybranch edit on github

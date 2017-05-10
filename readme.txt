@@ -12,3 +12,5 @@ local branch edit
 
 date: 2017/05/09
 
+push local branch
+

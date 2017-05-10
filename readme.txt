@@ -12,3 +12,13 @@ local branch edit
 
 date: 2017/05/09
 
+push local branch
+
+edit in branch2
+
+blah
+
+edit after pull request
+
+edit after reopen pull request
+

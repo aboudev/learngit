@@ -14,8 +14,6 @@ date: 2017/05/09
 
 push local branch
 
-edit in branch2
-
 blah
 
 add date: 2017/05/17
